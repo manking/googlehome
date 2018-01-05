@@ -1,0 +1,19 @@
+{
+  "name": "googlehome",
+  "version": "0.0.0",
+  "description": "google home command dispatcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manking/googlehome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manking/googlehome/issues"
+  },
+  "homepage": "https://github.com/manking/googlehome#readme"
+}
